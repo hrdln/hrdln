@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Herradlin J S
+# 👋 Hey there! I'm Herradlin J S 👩‍💼
 
 🎓 Final year undergrad | 💡 Tech enthusiast | 📊 Aspiring Data Analyst
 
