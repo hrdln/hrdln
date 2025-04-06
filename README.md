@@ -40,8 +40,8 @@ A Machine Learning-based project using **KNN Algorithm** to estimate battery hea
 ---
 
 ### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📸 [Instagram](https://www.instagram.com/hrd_ln)
+- 💼 [LinkedIn](https://www.linkedin.com/in/herradlin-826442214/)
+- 📸 [Instagram](https://www.instagram.com/hrd_ln/)
 - ✉️ Email: herradlinjs@gmail.com
 
 ---
